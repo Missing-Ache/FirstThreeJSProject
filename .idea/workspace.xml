@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea68bfe-14b4-4c0c-bf92-8ac0ebf1621f" name="Changes" comment="ajout d'animation et de control de camera sur l'objet 3D dodecahedron">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite/src/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="cea68bfe-14b4-4c0c-bf92-8ac0ebf1621f" name="Changes" comment="ajout d'animation et de control de camera sur l'objet 3D dodecahedron" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +128,7 @@
       <workItem from="1739530638718" duration="4430000" />
       <workItem from="1739714631035" duration="1376000" />
       <workItem from="1739716089240" duration="1011000" />
-      <workItem from="1739717117881" duration="470000" />
+      <workItem from="1739717117881" duration="860000" />
     </task>
     <servers />
   </component>
