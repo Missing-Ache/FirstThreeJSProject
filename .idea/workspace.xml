@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cea68bfe-14b4-4c0c-bf92-8ac0ebf1621f" name="Changes" comment="">
+    <list default="true" id="cea68bfe-14b4-4c0c-bf92-8ac0ebf1621f" name="Changes" comment="ajout d'animation et de control de camera sur l'objet 3D dodecahedron">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -21,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="practical-demopart" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -28,6 +34,24 @@
     &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;Missing-Ache&quot;
   }
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDON5Ghh86LQ12J&quot;,
+        &quot;number&quot;: 2
+      },
+      &quot;lastSeen&quot;: 1739547408474
+    },
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDON5Ghh86LV0g2&quot;,
+        &quot;number&quot;: 3
+      },
+      &quot;lastSeen&quot;: 1739630760764
+    }
+  ]
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
@@ -55,12 +79,14 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -69,6 +95,20 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\amine\Desktop\Projects\ThreeJS discovery\vite" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ThreeJS discovery/vite/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/vite/main.js" working-dir="$PROJECT_DIR$/vite">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -89,6 +129,9 @@
       <workItem from="1739474023230" duration="4000" />
       <workItem from="1739481981132" duration="1614000" />
       <workItem from="1739530638718" duration="4430000" />
+      <workItem from="1739714631035" duration="1376000" />
+      <workItem from="1739716089240" duration="1011000" />
+      <workItem from="1739717117881" duration="470000" />
     </task>
     <servers />
   </component>
@@ -117,5 +160,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajout d'animation et de control de camera sur l'objet 3D dodecahedron" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout d'animation et de control de camera sur l'objet 3D dodecahedron" />
   </component>
 </project>
